@@ -157,7 +157,8 @@ svg {
 
 .nav__logo{
   color: var(--title-color);
-  font-weight: var(--font-medium);
+  font-weight: var(--font-semi-bold);
+  font-size: 30px;
 }
 .nav__logo span{
   color: var(--first-color);
@@ -758,7 +759,6 @@ svg {
     font-size: var(--normal-font-size);
   }
   .contact__container{
-    grid-template-columns: 680px;
     padding-block: 2.5rem 2rem;
   }
   .contact__form{
